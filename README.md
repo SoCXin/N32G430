@@ -5,6 +5,8 @@
 
 [意法半导体](https://www.st.com/content/st_com/zh.html)，全球最大的半导体企业之一，1987年6月由意大利SGS Microelettronica和法国汤姆森半导体公司合并组建成SGS 汤姆森半导体公司，1998年5月改名为意法半导体。
 
+ST是全球性排名前十的独立半导体制造商。公司设计、生产、销售一系列半导体IC和分立器件，用于远程通讯系统、计算机系统、消费电子产品、汽车和工业自动化控制系统。
+
 [![sites](SoC/STM.jpg)](https://www.st.com/zh/microcontrollers-microprocessors.html) 
 
 
@@ -22,7 +24,7 @@
 
 ### [替换方案](https://github.com/sochub/ST)
 
-* 替换方案 [北京兆易](https://github.com/sochub/GD32F1) 
-* 替换方案 [台湾新塘](https://github.com/sochub/NANO100) 
+* 替换方案 [北京兆易](https://github.com/sochub/gigadevice) 
+* 替换方案 [台湾新塘](https://github.com/sochub/nuvoton) 
 
 ##  [SoC资源平台](http://www.qitas.cn)
