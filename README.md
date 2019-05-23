@@ -12,6 +12,7 @@ ST在MCU市场排名前三，给客户带来更高性能、更低功耗、更多
 
 [![sites](SoC/STM.jpg)](https://www.st.com/zh/microcontrollers-microprocessors.html) 
 
+*  [芯片选型手册](docs/) 
 
 ###  [MCU类产品](https://github.com/sochub/ST)  
 
