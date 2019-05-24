@@ -20,11 +20,15 @@ ST在MCU市场排名前三，给客户带来更高性能、更低功耗、更多
 	* [STM8L](https://github.com/sochub/STM8L) 
 	* [STM8S](https://github.com/sochub/STM8S) 
 * [STM32](https://github.com/sochub/STM32) 
+	* [STM32L0](https://github.com/sochub/STM32L0) 
+	* [STM32L1](https://github.com/sochub/STM32L1) 
 	* [STM32F0](https://github.com/sochub/STM32F0) 
 	* [STM32F1](https://github.com/sochub/STM32F1) 
+	* [STM32F2](https://github.com/sochub/STM32F2) 
+	* [STM32F3](https://github.com/sochub/STM32F3) 
 	* [STM32F4](https://github.com/sochub/STM32F4) 
-	* [STM32L1](https://github.com/sochub/STM32L1) 
-	* [STM32L0](https://github.com/sochub/STM32L0) 
+	* [STM32F7](https://github.com/sochub/STM32F7) 
+	* [STM32H7](https://github.com/sochub/STM32H7) 
 
 ### [选型建议](https://github.com/sochub/ST)
 
