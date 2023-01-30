@@ -15,9 +15,6 @@ output
 # .mxproject
 # Change*
 # CHANGE*
-COPY*
-*CONTRIBU*
-LICENSE*
 *.swp
 *.lck
 *.log
@@ -34,18 +31,9 @@ LICENSE*
 *.sct
 *.elf
 # *.ini
-*_sc*
-*cm23*
-*cm33*
-# *cm3*
-# *cm4*
-# *cm7*
-*cm1*
-core_armv8*
 *.uvgu*
 # .gitmodules
 # *.png
-*.jpg
 *.rst
 .travis.yml
 tests
@@ -63,5 +51,4 @@ RTE
 # !sRCA.bin
 Obj
 List
-Exe
 TEST/

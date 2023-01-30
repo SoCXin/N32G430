@@ -1,7 +1,7 @@
 ﻿# [N32G430](https://doc.soc.xin/N32G430)
 
-* [nationstech](https://www.nationstech.com/): [Cortex M4F](https://github.com/SoCXin/Cortex)
-* [L2R2](https://github.com/SoCXin/Level): 128 MHz , [￥5](https://item.szlcsc.com/3571707.html)
+* [nationstech](https://www.nationstech.com/): [Cortex-M4F](https://github.com/SoCXin/Cortex)
+* [L3R2](https://github.com/SoCXin/Level): 128 MHz , [￥5](https://item.szlcsc.com/3571707.html)
 
 ## [简介](https://github.com/SoCXin/N32G430/wiki)
 
@@ -23,6 +23,6 @@
 
 ## [选型建议](https://github.com/SoCXin/N32G430)
 
-[N32G430](https://item.szlcsc.com/3571707.html)
+[N32G430](https://item.szlcsc.com/3571707.html) 定位爆款，是性价比比较高的Cortex-M4F MCU，特性和价格解决之前爆款 [AT32F421](https://github.com/SoCXin/AT32F421)，但是配置了4.7Msps ADC，外设资源更丰富。
 
 ## [www.SoC.xin](http://www.SoC.Xin)

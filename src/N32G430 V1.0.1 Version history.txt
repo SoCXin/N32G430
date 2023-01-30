@@ -1,0 +1,18 @@
+﻿Nations.N32G430_Library.1.0.0：
+Initial release
+
+Nations.N32G430_Library.1.0.1：
+1. Modify the function to generate test signal in LPTIM DEMO.
+2. In n32g430_wwdg.h/n32g430_tim.h/log.h add __cplusplus.
+3. Modify I2S initial function MCLK configuration issue
+4. Add LIN demo
+5. Add PLL_TrimValueLoad() function,and called in configuring the system clock
+6. Modify ADC_TEMP demo,calculation formula update
+7. TIM_DCTRL‘s subsequent register cannot apply the DAM Burst function, and modify the corresponding code 
+8. Add error interrupt handling in I2C_Master_Int demo
+9. Modify the initial value of the PLLHSIPRE register
+10. Add the PLL_TrimValueLoad() function and replace FLASH->AC operations with FLASH_Latency_Set function inside the SYSCLKConfig_STOP function of the PWR AlarnWakeUp and PWR_STOP demo, main.c file version upgraded to v1.0.1
+11. Modify FLASH_Option_Bytes_User_Get function and FLASH_Option_Bytes_DATA_Program function
+12. Modify flash.c file section comments
+13. Modify comp.c file ,"COMP_Interrupt_Status_OneComp_Clear" is error 
+14. Modify n32g430.h file ,modify "#define COMP2_CTRL_FILTVAL   ((uint32_t)0000200000)" to "#define COMP2_CTRL_FILTVAL   ((uint32_t)0x00200000)"
