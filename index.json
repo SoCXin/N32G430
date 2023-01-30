@@ -1,0 +1,37 @@
+{
+    "type":"MCU",
+    "name":"N32G430",
+    "title": "Nationstech N32G430 MCU",
+    "description":"Nationstech ADC MCU",
+    "Core": {
+        "CoreNum": 1,
+        "Core":"Cortex-M4",
+        "Fmax":128,
+        "DMIPS": 160,
+        "CoreMark": 240
+    },
+    "manufacturer": {
+        "vendor":"Nationstech",
+        "homepage":"https://www.nationstech.com"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/SoCXin/N32G430.git"
+    },
+    "version":"1.0.0",
+    "series":["N32G430AW","N32G430AL"],
+    "package":["QFN48","QFN32","TSSOP20","LQFP48","LQFP32"],
+    "peripheral": ["CAN","ADC","USART","SPI","I2C"],
+    "temp": [-40,105],
+    "volt": [2.4,3.6],
+    "ESD": {
+        "HBM": 4000,
+        "CDM": 500
+    },
+    "keywords": [
+        "Cortex-M4",
+        "Nationstech",
+        "CAN","ADC","I2C","SPI","USART"
+    ]
+}
+

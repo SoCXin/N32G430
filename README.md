@@ -1,32 +1,28 @@
-﻿# [N32G452](https://github.com/SoCXin/N32G452)
+﻿# [N32G430](https://doc.soc.xin/N32G430)
 
-[![sites](http://182.61.61.133/link/resources/SoC.png)](http://www.SoC.Xin)
+* [nationstech](https://www.nationstech.com/): [Cortex M4F](https://github.com/SoCXin/Cortex)
+* [L2R2](https://github.com/SoCXin/Level): 128 MHz , [￥5](https://item.szlcsc.com/3571707.html)
 
-#### [Vendor](https://github.com/SoCXin/Vendor) ：[nationstech](https://www.nationstech.com/)
-#### [Core](https://github.com/SoCXin/Cortex)：[Cortex M4](https://github.com/SoCXin/CM4)
-#### [Level](https://github.com/SoCXin/Level)：144 MHz x 1.25DMIPS/MHz
+## [简介](https://github.com/SoCXin/N32G430/wiki)
 
-[N32G452](https://github.com/SoCXin/N32G452) 高达512KB 片内FLASH，144KB SRAM，多达18个数字通讯接口及4个模拟接口，内置10余种密码算法硬件加速引擎，支持存储加密、用户分区保护、安全启动等多种安全特性，可广泛应用于消费及工业类等应用领域。
+[N32G430](https://www.nationstech.com/N32G430/) 内置1个12bit 4.7Msps ADC，3个高速比较器，集成多路U(S)ART、I2C、SPI、CAN等数字通信接口。
 
-<!-- [![sites](docs/N32G452.png)](https://www.nationstech.com/N32G452/) -->
+### 关键参数
 
-#### 关键特性
+* 128 MHz Cortex-M4F
+* 16KB SRAM + 64KB Flash
+* LPUART + USART + UART + SPI + I2C + CAN
+* 12-bit ADC 4.7Msps
+* 3x CMP
 
-* 密码算法硬件加速器
-* SDIO接口
-* CAN接口
-* USB设备
-* 12bit ADC + 12bit DAC
-* I2S接口
+## [资源收录](https://github.com/SoCXin)
 
-### [资源收录](https://github.com/SoCXin)
-
-* [参考文档](docs/)
 * [参考资源](src/)
+* [参考文档](docs/)
 * [参考工程](project/)
 
-### [选型建议](https://github.com/SoCXin)
+## [选型建议](https://github.com/SoCXin/N32G430)
 
-[N32G452](https://github.com/SoCXin/N32G452)
+[N32G430](https://item.szlcsc.com/3571707.html)
 
-###  [SoC.芯](http://www.SoC.Xin)
+## [www.SoC.xin](http://www.SoC.Xin)
