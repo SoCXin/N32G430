@@ -19,7 +19,7 @@
         "url": "https://github.com/SoCXin/N32G430.git"
     },
     "version":"1.0.0",
-    "series":["N32G430AW","N32G430AL"],
+    "series":["N32G430"],
     "package":["QFN48","QFN32","TSSOP20","LQFP48","LQFP32"],
     "peripheral": ["CAN","ADC","USART","SPI","I2C"],
     "temp": [-40,105],
